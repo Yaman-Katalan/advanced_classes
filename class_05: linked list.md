@@ -1,5 +1,2 @@
-
-```python
-print("Hello, world!")
-```
+### Data Structure:
 
